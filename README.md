@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **Can sleep all the day long!!**
 
-### Blogs posts
+### Skills
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 

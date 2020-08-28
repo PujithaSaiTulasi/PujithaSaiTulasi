@@ -51,8 +51,8 @@
 </div>
 
 [![Github Badge](https://img.shields.io/badge/Follow-blue?style=social&logo=Github&link=https://github.com/PujithaSaiTulasi)](https://github.com/PujithaSaiTulasi)
-![Kaggle Badge](https://img.shields.io/badge/-Pujitha-blue?style=social&logo=Kaggle&link=https://www.kaggle.com/pujithasaitulasim)
-[![Linkedin Badge](https://img.shields.io/badge/-Pujitha-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/muddhu-pujitha-sai-tulasi-199173191/)]([https://www.linkedin.com/in/muddhu-pujitha-sai-tulasi-199173191/)
+[![Kaggle Badge](https://img.shields.io/badge/-pujithasaitulasim-blue?style=social&logo=Kaggle&link=https://www.kaggle.com/pujithasaitulasim)](https://www.kaggle.com/pujithasaitulasim)
+[![Linkedin Badge](https://img.shields.io/badge/-Pujitha-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/muddhu-pujitha-sai-tulasi-199173191/)](https://www.linkedin.com/in/muddhu-pujitha-sai-tulasi-199173191/)
 [![Twitter Badge](http://img.shields.io/badge/-@muddhusai-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/muddhusai)](https://twitter.com/muddhusai)
 [![Medium Badge](https://img.shields.io/badge/@Pujitha-blue?style=social&logo=Medium&link=https://medium.com/@mps.tulasi)](https://medium.com/@mps.tulasi) 
 [![Instagram Badge](https://img.shields.io/badge/-Pujitha-blue?style=social&logo=Instagram&link=https://www.instagram.com/tulasi_10)](https://www.instagram.com/tulasi_10)

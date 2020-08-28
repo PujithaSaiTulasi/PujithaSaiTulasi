@@ -41,7 +41,7 @@
 <a href=https://www.codingninjas.com>
    <img src=https://img.shields.io/badge/Campus_Ninja-Coding_Ninjas_India-brightgreen>
 </a>
-<a href=https://www.codingninjas.com>
+<a href=https://oscvizag.github.io/github/>
    <img src=https://img.shields.io/badge/OSC_Lead-OSC_Vizag-brightgreen>
 </a>
 </div>

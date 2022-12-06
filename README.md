@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pujitha Sai Tulasi Muddhu</h1>
-<h3 align="center">Self motivated Programmer,Tech Geek ,Data Science and ML Enthusiast</h3>
+<h3 align="center">Software Development Engineer In Test</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pujithasaitulasi" alt="pujithasaitulasi" /> </p>
 
-- 🔭 I’m currently working as Java Mentor at [YAY](https://www.gsyay.com/)
-
-- 🌱 I’m currently learning **Data Science and Machine Learning**
+- 🔭 I’m a SDET currently working at Groww.
 
 - 👯 I’m looking to collaborate on **Machine Learning models**
 
@@ -15,11 +13,9 @@
 
 - 📝 I write articles on [Medium](https://medium.com/@mps.tulasi)
 
-- 💬 Ask me about **Java, Python, Data Analytics, Machine Learning**
+- 💬 Ask me about **Backend Development, Java, Python, Data Analytics, Machine Learning**
 
 - 📫 How to reach me **mps.tulasi@gmail.com**
-
-- ⚡ Fun fact **Can sleep all the day long!!**
 
 
 ### Skills

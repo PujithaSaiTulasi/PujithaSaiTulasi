@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pujitha Sai Tulasi Muddhu</h1>
-<h3 align="center">Software Development Engineer In Test</h3>
+<h3 align="center">Software Development Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pujithasaitulasi" alt="pujithasaitulasi" /> </p>
 
-- 🔭 I’m a SDET currently working at Groww.
+- 🔭 I’m an Engineering Management grad at Northeastern University.
 
 - 👯 I’m looking to collaborate on **Machine Learning models**
 

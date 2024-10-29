@@ -13,23 +13,34 @@
 
 ---
 
-### Skills
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### 🛠️ Technical Skills
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></p>
+**Languages**: Python, Java, SQL, R, C/C++, JavaScript, HTML, CSS  
+**Frameworks**: Django, Flask, React, Swift, Pytest, Rest Assured, TestNG, Appium, Playwright  
+**Developer Tools**: Docker, Linux, Git/GitHub, AWS, PostgreSQL, Postman, Jenkins, Jira, Firebase, Figma  
+
 
 ---
+
+### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pujithasaitulasi&theme=dark&hide_langs_below=1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PujithaSaiTulasi&theme=dark&hide_langs_below=1" style="margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PujithaSaiTulasi&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pujithasaitulasi&show_icons=true&theme=dark&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /></p>
 
 ---
 
+### 💼 Experience
+
+<a href=https://groww.in/>
+   <img src=https://img.shields.io/badge/Software_Engineer-Groww-brightgreen>
+</a>
+<a href=https://www.brightmoney.co/>
+   <img src=https://img.shields.io/badge/Software_Engineer-Bright_Money-brightgreen>
+</a>
 <a href=https://www.gsyay.com>
-   <img src=https://img.shields.io/badge/Mentor-YAY!-brightgreen>
+   <img src=https://img.shields.io/badge/Mentor-YAY-brightgreen>
 </a>
 <a href=https://www.linkedin.com/company/technocolabs>
    <img src=https://img.shields.io/badge/Data_Science_Intern-Technocolabs-brightgreen>

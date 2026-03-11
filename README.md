@@ -7,7 +7,6 @@
 - 💼 Former **Software Engineer at Groww** and **Bright Money**
 - 🌱 I’m continuously expanding my knowledge in **Machine Learning, Data Science**, and **Software Engineering**
 - 💡 Passionate about **creating efficient solutions, automation frameworks**, and **building user-centered applications**
-- 👨‍💻 All of my projects are available at my [website](https://pujithasaitulasimuddhu.netlify.app)
 - 📝 I share insights on [Medium](https://medium.com/@mps.tulasi)
 - 📫 Reach me at **mps.tulasi@gmail.com**
 
